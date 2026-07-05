@@ -1,0 +1,7 @@
+# إخبار قيت هب بتجاهل ملفات المنصات وعدم احتسابها في لغة المشروع
+windows/** linguist-documentation
+linux/** linguist-documentation
+macos/** linguist-documentation
+android/** linguist-documentation
+ios/** linguist-documentation
+web/** linguist-documentation
